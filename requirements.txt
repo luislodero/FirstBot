@@ -10,7 +10,7 @@ colorama==0.4.4
 discord==1.7.3
 discord.py==1.7.3
 idna==2.10
-lxml==4.6.5
+lxml==4.9.1
 multidict==6.0.2
 pycparser==2.21
 PyNaCl==1.4.0
